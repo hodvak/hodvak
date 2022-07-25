@@ -9,7 +9,7 @@ Hello, my name is Hod Vaknin and I'm a Computer Science student at Hadassah Acad
 #!/usr/bin/python3
 hod = {
        'full name': 'Hod Vaknin',
-       'programming languages': ('Python', 'c++', 'Java', 'PHP', 'js'),
+       'programming languages': {'Python', 'c++', 'Java', 'PHP', 'js'},
        'workplace': None,
        'studies': {
                    'major': 'Computer Science',
