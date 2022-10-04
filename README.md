@@ -7,6 +7,7 @@ Hello, my name is Hod Vaknin and I'm a Computer Science student at Hadassah Acad
 ### A Little Bit More ###
 ```python3
 #!/usr/bin/python3
+from datetime import datetime
 hod = {
        'full name': 'Hod Vaknin',
        'programming languages': {'Python', 'c++', 'Java', 'PHP', 'js'},
@@ -15,14 +16,13 @@ hod = {
                    'major': 'Computer Science',
                    'type': 'B.Sc',
                    'collage': 'Hadassah Academic College',
-                   'years left': 2                   
+                   'graduate date': datetime(year=2024, month=8, day=1)                  
        }
 }
 ```
 
 ##  How to Reach Me? ## 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hod-vaknin/)
-
 
 
 <!--
