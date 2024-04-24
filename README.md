@@ -10,7 +10,7 @@ Hello, my name is Hod Vaknin and I'm a Computer Science student at Hadassah Acad
 from datetime import datetime
 hod = {
        'full name': 'Hod Vaknin',
-       'programming languages': {'Python', 'c++', 'Java', 'PHP', 'js'},
+       'programming languages': {'Python', 'C', 'C++', 'Java', 'PHP', 'js'},
        'workplace': None,
        'studies': {
                    'major': 'Computer Science',
