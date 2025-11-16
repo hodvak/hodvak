@@ -11,7 +11,7 @@ from datetime import datetime
 hod = {
        'full name': 'Hod Vaknin',
        'programming languages': {'Python', 'C', 'C++', 'Java', 'PHP', 'js'},
-       'workplace': None,
+       'workplace': 'Mobileye',
        'studies': {
                    'major': 'Computer Science',
                    'type': 'B.Sc',
